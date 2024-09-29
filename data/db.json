@@ -13,15 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-flash",
@@ -96,14 +89,6 @@
       "characters": "Peter Parker"
     },
     {
-      "id": "marvel-captain",
-      "superhero": "Captain America",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Steve Rogers",
-      "first_appearance": "Captain America Comics #1",
-      "characters": "Steve Rogers"
-    },
-    {
       "id": "marvel-iron",
       "superhero": "Iron Man",
       "publisher": "Marvel Comics",
@@ -166,6 +151,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "sNPSh_u",
+      "superhero": "Ruben",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Strider",
+      "first_appearance": "Hal",
+      "characters": "Ruben",
+      "alt_img": "https://e7.pngegg.com/pngimages/92/839/png-clipart-strider-street-fighter-x-tekken-street-fighter-x-mega-man-final-fantasy-brave-exvius-strider-hiryu-chibi-video-game-thumbnail.png"
     }
   ]
 }
